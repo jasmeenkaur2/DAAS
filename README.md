@@ -1,2 +1,2 @@
-# DAAS
+# Mini Alexa
 voice assistant
